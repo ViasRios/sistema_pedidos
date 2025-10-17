@@ -1,0 +1,15 @@
+{
+    "name": "maze0/sistema_inventario",
+    "autoload": {
+        "psr-4": {
+            "Maze0\\SistemaInventario\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ViasRios",
+            "email": "viasderios@gmail.com"
+        }
+    ],
+    "require": {}
+}
